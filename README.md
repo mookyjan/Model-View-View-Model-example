@@ -1,14 +1,11 @@
-# f278b935bf419a41b5d1a2f0a8cbbf5ed590bae8
 
-
-mercari-android-test
 
 Description
 
 I have done this project on Android most popular Design Architecture MVVM(Model View ViewModel).
  ![Screenshot](https://s18.postimg.org/8k8qpmhdl/mvvm.png)
  
- First i have created a new project name with MercariTest 
+ First i have created a new project 
  then i have created three fragments ALL,Men and Women Fragments.
  To show the data in these fragments 
  I have used two methods to show data from json Files
